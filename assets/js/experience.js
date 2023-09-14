@@ -9,14 +9,14 @@ const exp = [
     cardImage: "assets/images/experience-page/RAT.jpeg",
     place: "Collins Aero.(Raytheon)",
     time: "(Jan - Aug, 2023)",
-    desp: ""<li>Conducted aircraft marshalling and fueling operations.</li><li>Ensured superficial maintenance of a fleet of 5 rental aircraft.</li>",
+    desp: "<li>Conducted aircraft marshalling and fueling operations.</li><li>Ensured superficial maintenance of a fleet of 5 rental aircraft.</li>",
   },
   {
     title: "Manufacturing Engineering Co-OP",
     cardImage: "assets/images/experience-page/Unknown.jpeg",
     place: "American Orthodontics",
     time: "(Jan - May, 2020)",
-    desp: ""<li>Conducted aircraft marshalling and fueling operations.</li><li>Ensured superficial maintenance of a fleet of 5 rental aircraft.</li>",
+    desp: "<li>Conducted aircraft marshalling and fueling operations.</li><li>Ensured superficial maintenance of a fleet of 5 rental aircraft.</li>",
   },
   {
     title: "Airport Line Crewmember",
