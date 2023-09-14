@@ -10,7 +10,7 @@ const exp = [
     place: "Collins Aerospace(Raytheon)",
     time: "(Jan. 2023 - Aug. 2023)",
     desp: "<li>Partnered in development of new Ram Air Turbine manufacturing or assembly processes as well as wind tunnel
-integration scalable to nearly 50% of RAT testing operations</li> <li>Co-Led a cross-functional team of engineers to implement shadowboards in nearly 15% of plant assembly areas</li> <li>Overhauled wind tunnel gantry mounting processes and protect Airbus A320 ram air turbines from damage due
+integration scalable to nearly 50 percent of RAT testing operations</li> <li>Co-Led a cross-functional team of engineers to implement shadowboards in nearly 15% of plant assembly areas</li> <li>Overhauled wind tunnel gantry mounting processes and protect Airbus A320 ram air turbines from damage due
 to FOD/ impact</li>",
   },
   {
