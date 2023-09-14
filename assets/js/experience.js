@@ -68,16 +68,16 @@ const volunteershipcards = [
       "Leadership Academy Scholarship Full-Ride Recipient.  Partakes in frequent leadership development courses",
   },
   {
-    title: "Private Pilot Training (2020)",
-    cardImage: "assets/images/IMG_0625.jpeg",
+    title: "StudentCode-in 2020",
+    cardImage: "assets/images/experience-page/2.jpg",
     description:
-      "Employed risk management and honed decision making skills in pursuit of a Private Pilots Certificate.",
+      "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
   },
- {
-    title: "Blank",
+  {
+    title: "PClub Summer Of Code 2020",
     cardImage: "assets/images/experience-page/3.jpg",
     description:
-      "Description Loerm Ispsum Dolor",
+      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
   },
   {
     title: "Hakin-Codes",
@@ -111,18 +111,18 @@ document.addEventListener("DOMContentLoaded", showCards);
 const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
   {
-    title: "Empowerement, Leadership, Mentorship Program",
+    title: "The Uplift Project",
     subtitle: "Mentor",
-    image: "assets/images/elm_icon_mentorship-01.jpg",
-    desp: "I was responsible for utilizing learned skills for academic/professional success to empower IIT community members and support them as they reached toward new goals.  .",
-    href: "https://www.iit.edu/elm",
+    image: "assets/images/experience-page/uplift.png",
+    desp: "I would be responsible for guiding 100s of participants across the globe in their first steps towards Applied Data Science and building end-to-end machine learning projects.",
+    href: "https://uplift.girlscript.tech/",
   },
   {
-    title: "Just Roots Volunteer",
-    subtitle: "Cultivator",
-    image: "assets/images/IMG_1111.jpeg",
-    desp: "Just Root's is an urban farm focused on developing methods to provide fresh and healthy produce to members of the local Bronzeville community.",
-    href: "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjM0IvQqqqBAxWFlIkEHS9CDP8QFnoECAgQAQ&url=https%3A%2F%2Fjustrootschicago.org%2F&usg=AOvVaw16xIfR_ElU4neB91zg9llA&opi=89978449",
+    title: "ULHacks",
+    subtitle: "Judge",
+    image: "assets/images/experience-page/ulhacks.png",
+    desp: "ULHacks is a 36 hour long hackathon organized with an aim to enable students to create a project which empowers learning.",
+    href: "https://ulhacks.com/",
   },
   {
     title: "WaffleHacks",
