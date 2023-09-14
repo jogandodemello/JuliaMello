@@ -11,7 +11,7 @@ const moocs = document.querySelector(".moocs");
    },
    {
      title: "Cryptography",
-     cardImage: "assets/images/education-page/udemy.svg",
+     cardImage: "assets/images/edecation-page/udemy.svg",
      moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
    },
    {
