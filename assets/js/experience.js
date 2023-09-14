@@ -10,7 +10,7 @@ const exp = [
     place: "Collins Aero.(Raytheon)",
     time: "(Jan - Aug, 2023)",
     desp: "<li>Integrated Ram Air Turbine testing in new windtunnel. </li><li>Employed additive manufacturing techniques to employ shadowboards in 15% of production & > 75% of test environments.</li><li>Overhauled wind tunnel gantry mounting processes to protect Airbus A320 ram air turbines from damage due
-to FOD/impact</li><li>Studied Lean/Six Sigma(Green Belt)/ C.O.R.E doctrines for further application</li>",
+to FOD/impact.</li><li>Studied Lean/Six Sigma(Green Belt)/ C.O.R.E doctrines for further application.</li>",
   },
   {
     title: "Manufacturing Engineering Co-OP",
