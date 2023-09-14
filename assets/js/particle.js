@@ -43,7 +43,7 @@
        random: true,
        anim: {
          enable: false,
-         speed: 4,
+         speed: 1,
          size_min: 10,
          sync: false,
        },
@@ -57,7 +57,7 @@
      },
      move: {
        enable: true,
-       speed: 3,
+       speed: 1,
        direction: "none",
        random: false,
        straight: false,
