@@ -16,14 +16,14 @@ const exp = [
     cardImage: "assets/images/experience-page/Unknown.jpeg",
     place: "American Orthodontics",
     time: "(Jan - May, 2020)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    desp: "<li>Collaborated in production and distribution of orthodontic devices to customers in over 110 different countries.</li><li>Learned how to conduct root cause analysis and enforce corrective actions to improve product quality and reduce defects to ideally, 3.4 errors per one million opportunities.</li>",
   },
   {
     title: "Airport Ground Crew",
     cardImage: "assets/images/experience-page/IMG_1774.jpeg",
     place: "West Bend Municipal Airport",
     time: "(Aug, 19 - Sep, 21)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    desp: "<li>Marshalled and fueled transient aircraft while ensuring high attention to detail and precision..</li><li>Conducted superficial maintenance on a fleet of 5 training aircraft.</li>",
   },
 ];
 
