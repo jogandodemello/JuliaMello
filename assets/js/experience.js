@@ -73,18 +73,6 @@ const volunteershipcards = [
     description:
       "I'm a Private Pilot-I'm constantly honing my skills, and striving to achieve a higher order of precision and hone my decision making skills.",
   },
-  {
-    title: "PClub Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/3.jpg",
-    description:
-      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
-  },
-  {
-    title: "Hakin-Codes",
-    cardImage: "assets/images/experience-page/4.jpg",
-    description:
-      "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
-  },
 ];
 
 const showCards = () => {
