@@ -99,11 +99,11 @@ document.addEventListener("DOMContentLoaded", showCards);
 const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
   {
-    title: "The Uplift Project",
+    title: "Empowerment, Leadership, Mentorship Program",
     subtitle: "Mentor",
-    image: "assets/images/experience-page/uplift.png",
-    desp: "I would be responsible for guiding 100s of participants across the globe in their first steps towards Applied Data Science and building end-to-end machine learning projects.",
-    href: "https://uplift.girlscript.tech/",
+    image: "assets/images/elm_icon_mentorship-01.jpg",
+    desp: "I would be responsible for utilizing a battery of tools acquired in my academic and professional journey to mentor members of the IIT community and motivate them as they reach toward new goals.",
+    href: "https://www.iit.edu/elm",
   },
   {
     title: "ULHacks",
