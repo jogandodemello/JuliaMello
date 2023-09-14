@@ -113,7 +113,7 @@ const mentor = [
     href: "https://justrootschicago.org",
   },
   {
-    title: "EAA Kidventure ",
+    title: "EAA Kidventure",
     subtitle: "Volunteer",
     image: "assets/images/KtuvE6gA-1024x682.jpeg",
     desp: "Kidventure is a workshop event within the broader EAA Airventure umbrella, where children interact with aviation in new and inspirational ways.",
