@@ -9,8 +9,7 @@ const exp = [
     cardImage: "assets/images/experience-page/RAT.jpeg",
     place: "Collins Aero.(Raytheon)",
     time: "(Jan - Aug, 2023)",
-    desp: "<li>Developed new Ram Air Turbine manufacturing or assembly processes as well as wind tunnel integration scalable to nearly 50% of RAT testing operations</li><li>implement shadowboards in nearly 15% of plant assembly areas
-	Partook in continuous improvement initiatives, utilizing Lean Manufacturing and Six Sigma/Design for Six Sigma</li><li>Overhauled wind tunnel gantry mounting processes and protect Airbus A320 ram air turbines from damage due to FOD & impact.</li>",
+    desp: "<li>Developed new Ram Air Turbine manufacturing or assembly processes as well as wind tunnel integration scalable to nearly 50% of RAT testing operations</li><li>implement shadowboards in nearly 15% of plant assembly areas</li><li>Partook in continuous improvement initiatives, utilizing Lean Manufacturing and Six Sigma/Design for Six Sigma</li><li>Overhauled wind tunnel gantry mounting processes and protect Airbus A320 ram air turbines from damage due to FOD & impact.</li>",
   },
   {
     title: "Manufacturing Engineering Co-OP",
