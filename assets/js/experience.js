@@ -9,7 +9,7 @@ const exp = [
     cardImage: "assets/images/experience-page/RAT.jpeg",
     place: "Collins Aero.(Raytheon)",
     time: "(Jan - Aug, 2023)",
-     desp: "<li>Improved Ram Air Turbine Mfg. processes.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+     desp: "<li>Improved Ram Air Turbine Mfg processes.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
   },
   {
     title: "Manufacturing Engineering Co-OP",
