@@ -73,7 +73,19 @@ const volunteershipcards = [
     description:
       "Employed risk management and honed decision making skills in pursuit of a Private Pilots Certificate.",
   },
-
+ {
+    title: "Blank",
+    cardImage: "assets/images/experience-page/3.jpg",
+    description:
+      "Description Loerm Ispsum Dolor",
+  },
+  {
+    title: "Hakin-Codes",
+    cardImage: "assets/images/experience-page/4.jpg",
+    description:
+      "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
+  },
+];
 
 const showCards = () => {
   let output = "";
