@@ -5,13 +5,11 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Manufacturing Engineering Co-Op",
-    cardImage: "assets/images/experience-page/RAT.jpeg",
-    place: "Collins Aerospace(Raytheon)",
-    time: "(Jan. 2023 - Aug. 2023)",
-    desp: "<li>Partnered in development of new Ram Air Turbine manufacturing or assembly processes as well as wind tunnel
-integration scalable to nearly 50 percent of RAT testing operations</li> <li>Co-Led a cross-functional team of engineers to implement shadowboards in nearly 15% of plant assembly areas</li> <li>Overhauled wind tunnel gantry mounting processes and protect Airbus A320 ram air turbines from damage due
-to FOD/ impact</li>",
+    title: "Student Developer",
+    cardImage: "assets/images/experience-page/gsoc.png",
+    place: "Google Summer Of Code",
+    time: "(Mar - Aug, 2019)",
+    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
   },
   {
     title: "Student Developer",
