@@ -20,7 +20,7 @@ AOS.init();
     moocLink: "https://www.edx.org/course/introduction-to-aerospace-engineering-astronautics-and-human-spaceflight-course-v1mitx1600x2t2020?utm_medium=social&utm_campaign=social-sharing-db&utm_source=twitter ",
   },
   {
-    title: "Algorithms: Design and Analysis",
+    title: "Algorithms: Design and Analysis, pt1",
     cardImage: "https://github.com/Mattnej21/Portfolio2/blob/master/assets/images/education-page/StanfordOnline.png",
     moocLink: "https://www.edx.org/course/algorithms-design-and-analysis?utm_medium=social&utm_campaign=social-sharing-db&utm_source=twitter ",
   },
