@@ -9,15 +9,14 @@ const exp = [
     cardImage: "assets/images/experience-page/RAT.jpeg",
     place: "Collins Aero.(Raytheon)",
     time: "(Jan - Aug, 2023)",
-    desp: "<li>Developed new Ram Air Turbine manufacturing or assembly processes as well as wind tunnel integration scalable to nearly 50% of RAT testing operations</li><li>implement shadowboards in nearly 15% of plant assembly areas</li><li>Partook in continuous improvement initiatives, utilizing Lean Manufacturing and Six Sigma/Design for Six Sigma</li><li>Overhauled wind tunnel gantry mounting processes and protect Airbus A320 ram air turbines from damage due to FOD & impact.</li>",
+    desp: ""<li>Conducted aircraft marshalling and fueling operations.</li><li>Ensured superficial maintenance of a fleet of 5 rental aircraft.</li>",
   },
   {
     title: "Manufacturing Engineering Co-OP",
     cardImage: "assets/images/experience-page/Unknown.jpeg",
     place: "American Orthodontics",
     time: "(Jan - May, 2020)",
-    desp: "<li>Collaborated in production and distribution of orthodontic devices to customers in over 110 different countries</li><li>Learned how to conduct root cause analysis and enforce corrective actions to improve product quality and
-reduce defects to ideally, 3.4 errors per one million opportunities</li>",
+    desp: ""<li>Conducted aircraft marshalling and fueling operations.</li><li>Ensured superficial maintenance of a fleet of 5 rental aircraft.</li>",
   },
   {
     title: "Airport Line Crewmember",
