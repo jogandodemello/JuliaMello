@@ -23,7 +23,7 @@ const projects = [
   },
   {
     title: "Personal Website",
-    cardImage: "assets/images/project-page/flappybird.png",
+    cardImage: "assets/images/project-page/best-free-stock-images.jpg",
     description: "Creation and Maintenance of a personal website via forked github code as a means to learn.  Future State: Fully customized website",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
