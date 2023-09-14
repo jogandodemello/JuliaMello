@@ -9,21 +9,21 @@ const exp = [
     cardImage: "assets/images/experience-page/RAT.jpeg",
     place: "Collins Aero.(Raytheon)",
     time: "(Jan - Aug, 2023)",
-    desp: "<li>Conducted aircraft marshalling and fueling operations.</li><li>Ensured superficial maintenance of a fleet of 5 rental aircraft.</li>",
+    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
   },
   {
     title: "Manufacturing Engineering Co-OP",
     cardImage: "assets/images/experience-page/Unknown.jpeg",
     place: "American Orthodontics",
     time: "(Jan - May, 2020)",
-    desp: "<li>Conducted aircraft marshalling and fueling operations.</li><li>Ensured superficial maintenance of a fleet of 5 rental aircraft.</li>",
+    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
   },
   {
-    title: "Airport Line Crewmember",
+    title: "Airport Ground Crew",
     cardImage: "assets/images/experience-page/IMG_1774.jpeg",
     place: "West Bend Municipal Airport",
-    time: "(Aug, 19 - Sept, 21)",
-    desp: "<li>Conducted aircraft marshalling and fueling operations.</li><li>Ensured superficial maintenance of a fleet of 5 rental aircraft.</li>",
+    time: "(Aug, 19 - Sep, 21)",
+    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
   },
 ];
 
