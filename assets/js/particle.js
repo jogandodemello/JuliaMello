@@ -118,7 +118,7 @@
 
          txtElement.textContent = ""; // It removes the previous text from the element
 
-         // For each letter in the array
+         // For each letter in the arrays
          txtArr.forEach((letter) => {
            // It replaces the empty space for the "non-break-space" HTML...
            // ... This is needed to separate the words properly
