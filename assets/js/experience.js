@@ -68,16 +68,16 @@ const volunteershipcards = [
       "Leadership Academy Scholarship Full-Ride Recipient.  Partakes in frequent leadership development courses",
   },
   {
-    title: "StudentCode-in 2020",
-    cardImage: "assets/images/experience-page/2.jpg",
+    title: "Private Pilot Training (2020)",
+    cardImage: "assets/images/IMG_0625.jpeg",
     description:
-      "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
+      "Employed risk management and honed decision making skills in pursuit of a Private Pilots Certificate.",
   },
   {
-    title: "PClub Summer Of Code 2020",
+    title: "Blank",
     cardImage: "assets/images/experience-page/3.jpg",
     description:
-      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
+      "Description Loerm Ispsum Dolor",
   },
   {
     title: "Hakin-Codes",
