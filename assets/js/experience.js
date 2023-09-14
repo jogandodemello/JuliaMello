@@ -9,7 +9,8 @@ const exp = [
     cardImage: "assets/images/experience-page/RAT.jpeg",
     place: "Collins Aero.(Raytheon)",
     time: "(Jan - Aug, 2023)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    desp: "<li>Integrated Ram Air Turbine testing in new windtunnel. </li><li>Employed additive manufacturing techniques to employ shadowboards in 15% of production & > 75% of test environments.</li><li>Overhauled wind tunnel gantry mounting processes to protect Airbus A320 ram air turbines from damage due
+to FOD/impact</li><li>Studied Lean/Six Sigma(Green Belt)/ C.O.R.E doctrines for further application</li>",
   },
   {
     title: "Manufacturing Engineering Co-OP",
