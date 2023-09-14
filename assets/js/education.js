@@ -5,67 +5,50 @@ AOS.init();
  const moocs = document.querySelector(".moocs");
  const moocscards = [
    {
-     title: "Data Science",
-     cardImage: "assets/images/education-page/coursera2.svg",
-     moocLink: "https://www.coursera.org/browse/data-science",
-   },
-   {
-     title: "Cryptography",
-     cardImage: "assets/images/education-page/udemy.svg",
-     moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
-   },
-   {
-     title: "Machine Learning",
-     cardImage: "assets/images/education-page/coursera2.svg",
-     moocLink: "https://www.coursera.org/learn/machine-learning",
-   },
-   {
-     title: "Introduction to HTML 5",
-     cardImage: "assets/images/education-page/udacity.svg",
-     moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-   },
-   {
-     title: "Introduction to CSS 3",
-     cardImage: "assets/images/education-page/udacity.svg",
-     moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-   },
-   {
-     title: "Javascript",
-     cardImage: "assets/images/education-page/udacity.svg",
-     moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
-   },
-   {
-     title: "Bootstrap 4",
-     cardImage: "assets/images/education-page/udemy.svg",
-     moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
-   },
-   {
-     title: "Intro to React",
-     cardImage: "assets/images/education-page/edx.svg",
-     moocLink: "https://www.edx.org/learn/reactjs",
-   },
-   {
-     title: "Intro to React Native",
-     cardImage: "assets/images/education-page/coursera2.svg",
-     moocLink:
-       "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
-   },
-   {
-     title: "NodeJS, Express and MongoDB",
-     cardImage: "assets/images/education-page/coursera2.svg",
-     moocLink: "https://www.coursera.org/learn/server-side-nodejs",
-   },
-   {
-     title: "XML-AJAX",
-     cardImage: "assets/images/education-page/udemy.svg",
-     moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
-   },
-   {
-     title: "Data Structures & Algorithms",
-     cardImage: "assets/images/education-page/udacity.svg",
-     moocLink:
-       "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
-   },
+    title: "CS50s Intro to computer Science",
+    cardImage: "assets/images/education-page/HarvardX.jpeg",
+    moocLink: "https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home",
+  },
+  {
+    title: "U.S. Public Policy",
+    cardImage: "assets/images/education-page/HarvardX.jpeg",
+    moocLink: "https://www.edx.org/course/us-public-policy-social-economic-and-foreign-policies-course-v1harvardxhks101a_42t2022?utm_medium=social&utm_campaign=social-sharing-db&utm_source=twitter ",
+  },
+  {
+    title: "Intro to Aerospace Engineering: Astronautics and Human Spaceflight",
+    cardImage: "assets/images/education-page/MITX.jpeg",
+    moocLink: "https://www.edx.org/course/introduction-to-aerospace-engineering-astronautics-and-human-spaceflight-course-v1mitx1600x2t2020?utm_medium=social&utm_campaign=social-sharing-db&utm_source=twitter ",
+  },
+  {
+    title: "Algorithms: Design and Analysis",
+    cardImage: "https://github.com/Mattnej21/Portfolio2/blob/master/assets/images/education-page/StanfordOnline.png",
+    moocLink: "https://www.edx.org/course/algorithms-design-and-analysis?utm_medium=social&utm_campaign=social-sharing-db&utm_source=twitter ",
+  },
+  {
+    title: "Environmental Security and Sustaining Peace",
+    cardImage: "assets/images/education-page/SGDAcademy.jpeg",
+    moocLink: "https://learning.edx.org/course/course-v1:SDGAcademyX+ESSP001+3T2019/home",
+  },
+  {
+    title: "Incorporating Renewable Energy in Electricity Grids",
+    cardImage: "assets/images/education-page/EDX.png",
+    moocLink: "https://learning.edx.org/course/course-v1:ImperialX+dacc003+3T2018/home",
+  },
+  {
+    title: "How to Achieve the Sustainable Development Goals",
+    cardImage: "assets/images/education-page/SGDAcademy.jpeg",
+    moocLink: "https://learning.edx.org/course/course-v1:SDGAcademyX+SDG001+3T2018/home",
+  },
+  {
+    title: "Agile Project Leadership"
+    cardImage: "assets/images/education-page/CSG.webp",
+    moocLink: "https://www.linkedin.com/learning/agile-project-leadership/necessity-of-leadership-in-agile-environments",
+  },
+  {
+    title: "Leading and Motivating People with Different Personalities",
+    cardImage: "assets/images/education-page/Linkedin.png",
+    moocLink: "https://https://www.linkedin.com/learning/certificates/20e048c8f56de4df33cd0ff8c88e00166de984ea955df1db3eb4d81764433d56",
+  },
  ];
 
  const experience = [
