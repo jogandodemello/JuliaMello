@@ -4,36 +4,26 @@ const researchTable = document.querySelector(".main");
 
 const research = [
   {
-    title: "A Batch Normalized Inference Network Keeps the KL Vanishing Away",
+    title: "Energy, exergy, sustainability, and economic analyses of a grid-connected solar power plant consisting of bifacial PV modules with solar tracking system on a single axis",
     authors:
-      "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu",
-    conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 2020,
+      "Miraç Can Ozturk, Battal Dogan and Murat Kadir Yesilyurt",
+    researchYr: 2023,
     citebox: "popup1",
-    image: "assets/images/research-page/inteferenceNetwork.png",
+    image: "assets/images/research-page/Renewable Grid.png",
     citation: {
       vancouver:
-        "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu. A Batch Normalized Inference Network Keeps the KL Vanishing Away. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "Energy, exergy, sustainability, and economic analyses of a grid-connected solar power plant consisting of bifacial PV modules with solar tracking system on a single axis
+Miraç Can  Ozturk, Battal  Dogan, Murat Kadir  Yesilyurt
+Sci. Tech. Energ. Transition 78 19 (2023)
+DOI: 10.2516/stet/2023015
+",
     },
     abstract:
       "This is currently left empty and this can be considered as a dummy data 1",
     absbox: "absPopup1",
   },
 
-  {
-    title: "A Call for More Rigor in Unsupervised Cross-lingual Learning",
-    authors:
-      "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre",
-    conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 2020,
-    citebox: "popup2",
-    image: "assets/images/research-page/crossLingual.png",
-    citation: {
-      vancouver:
-        "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre. A Call for More Rigor in Unsupervised Cross-lingual Learning. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
-    },
+  
     abstract:
       "This is currently left empty and this can be considered as a dummy data 2",
     absbox: "absPopup2",
