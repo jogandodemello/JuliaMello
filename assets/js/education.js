@@ -5,7 +5,7 @@ AOS.init();
  const moocs = document.querySelector(".moocs");
  const moocscards = [
    {
-     title: "Data Science",
+     title: "Data Science and about a million other things that create longer names to test how this tile is formatted to see if it can handle 2 or more lines",
      cardImage: "assets/images/education-page/coursera2.svg",
      moocLink: "https://www.coursera.org/browse/data-science",
    },
