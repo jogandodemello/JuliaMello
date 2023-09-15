@@ -158,10 +158,7 @@ let footer = $(`
             <button type="submit">Send</button>
           </div>
         
-                  <div id="main">
-                    <button id="lnch" type="button" value="Send" >Send</button>
-                    <div id="lnch_btn"><i class="fas fa-space-shuttle"></i></div>
-                  </div>
+ 
                 </form>
               </div>
             </div>
