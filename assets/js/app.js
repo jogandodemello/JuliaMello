@@ -137,12 +137,27 @@ let footer = $(`
              <div class="form-header">
                 <h6 class="display">Get in Touch</h6>
               </div>
-               <form action="https://formcarry.com/s/ZI6guXixyj" method="POST" accept-charset="UTF-8">
-              </form>
-                  <input id="name" type="text" name="name" placeholder="Your Name" required/>
-                  <input id="email" type="email" name="email" placeholder="Email Address" required/>                  
-                  <textarea id="textArea" name="message" placeholder="Type your Message" required></textarea>
-              
+             <form action="https://formcarry.com/s/ZI6guXixyj" method="POST" target="_blank" enctype="multipart/form-data">
+          
+          <div class="formcarry-block">
+            <label for="fc-generated-1-name">Full Name</label>
+            <input type="text" name="name" id="fc-generated-1-name" placeholder="Your first and last name" />
+          </div>
+          
+          <div class="formcarry-block">
+            <label for="fc-generated-1-email">Your Email Address</label>
+            <input type="email" name="email" id="fc-generated-1-email" placeholder="john@doe.com" />
+          </div>
+          
+          <div class="formcarry-block">
+            <label for="fc-generated-1-message">Your message</label>
+            <textarea name="message" name="message" id="fc-generated-1-message" placeholder="Enter your message..."></textarea>
+          </div>
+          
+          <div class="formcarry-block">  
+            <button type="submit">Send</button>
+          </div>
+        
                   <div id="main">
                     <button id="lnch" type="button" value="Send" >Send</button>
                     <div id="lnch_btn"><i class="fas fa-space-shuttle"></i></div>
