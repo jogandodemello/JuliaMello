@@ -6,7 +6,7 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "A.M.P.L.E.",
+    title: "A.M.P.L.E.(Complete)",
     cardImage: "assets/images/SMD-LED_on_Hex_MCPCB.jpg",
     description: "An AntiMicrobial Protected Lighting Environment system created by combining near UV-C lights within an interior handrail sconce, such that the contained lights neutralize contaminants on the surface of the rail.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
@@ -16,16 +16,24 @@ const projects = [
   {
     title: "BMW EBike",
     cardImage: "assets/images/bmw-logo-2020-scaled.jpg.webp",
-    description: "A BMW K75 Conversion.",
+    description: "A BMW K75 Conversion (Postponed)",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "",
     Githublink: "",
   },
   {
-    title: "Personal Website",
+    title: "Personal Website(Active)",
     cardImage: "assets/images/project-page/best-free-stock-images.jpg",
     description: "Creation and Maintenance of a personal website via forked github code as a means to learn.  Future State: Fully customized website",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "",
+    Githublink: "",
+  },
+   {
+    title: "Mechatron",
+    cardImage: "assets/images/project-page/dd9b3eb2-e1c0-466c-8ef6-b42c643296e5-RFD0909_Collins_Aerospace004.JPG.webp",
+    description: "Performed on a team to process plan for loading/testing/unloading RAT from windtunnel gantry.",
+    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "",
     Githublink: "",
   },
