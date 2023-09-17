@@ -14,7 +14,7 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "BMW EBike",
+    title: "BMW EBike(Pending)",
     cardImage: "assets/images/bmw-logo-2020-scaled.jpg.webp",
     description: "A BMW K75 Conversion (Postponed)",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
@@ -30,7 +30,7 @@ const projects = [
     Githublink: "",
   },
    {
-    title: "Mechatron",
+    title: "Mechatron(Complete)",
     cardImage: "assets/images/project-page/dd9b3eb2-e1c0-466c-8ef6-b42c643296e5-RFD0909_Collins_Aerospace004.JPG.webp",
     description: "Performed on a team to process plan for loading/testing/unloading RAT from windtunnel gantry.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
