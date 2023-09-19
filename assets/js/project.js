@@ -18,7 +18,7 @@ const projects = [
     cardImage: "assets/images/bmw-logo-2020-scaled.jpg.webp",
     description: "A BMW K75 Conversion (Postponed)",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "",
+    Previewlink: "Test",
     Githublink: "",
   },
   {
