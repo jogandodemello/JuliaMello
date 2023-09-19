@@ -1,41 +1,22 @@
 /*Reference Details Table*/
-// Changes made 10/1/2021:
-// Added reviewphoto1 - reviewphoto5 in assets/references-page
-// Changed names and descriptions of references
+// Changes made 9/19/2023:
 const referenceTable = document.querySelector(".pain");
 
 const references = [
   {
     sl1: 1,
-    name1 : "Smaranjit Ghose",
-        designation1 : "Product Manager, Microsoft",
-        image1 : "https://avatars.githubusercontent.com/u/46641503?v=4",
-        message1 : "John is a conscientious individual whom I mentored during JWOC'2021. His problem-solving skills and a keen interest in learning new skillsets are remarkable. His hardworking nature and team-building abilities make him different from others.",
+    name1 : "Note:",
+        designation1 : "",
+        image1 : "https://www.seekpng.com/ipng/u2q8w7i1i1i1o0r5_car-cartoon-comic-construction-crane-ride-/",
+        message1 : "This page will *eventually* host a compilation of professional references, information about the referral,and some other ",
         
 
         sl2:2,
-        name2 : "Anush Bhatia",
-        designation2 : "Senior Analyst, Capgemini", 
-        image2: "https://avatars.githubusercontent.com/u/40017559?v=4",
-        message2 : "John has the best grasping skills I have seen in a new developer. I got to know him through GSSOC'2021 when I mentored him, and he made an exceptional growth during the competition. He made some incredible contributions and has good experience with Open Source.",
+        name2 : "",
+        designation2 : "", 
+        image2: "",
+        message2 :" ",
         
-        
-    },
-
-    {
-        sl1:3,
-        name1 : "Aditya Jyoti Paul",
-        designation1 : "Technical Analyst, Amazon",
-        image1 : "https://media-exp1.licdn.com/dms/image/C5603AQGEV-kzawPxjw/profile-displayphoto-shrink_800_800/0/1588602102622?e=1651708800&v=beta&t=8nxhFoR-WB4OKVltyYaVjmRpig_kQcvFsoa-eLjJPBQ",
-        message1 : "John and I have worked on several projects. Apart from technical skills, he also has good soft skills. He has good experience with debugging and has excellent leadership qualities.",
-        
-
-        sl2:4,
-        name2 : "Arnab Dutta Purkayastha",
-        designation2 : "Data Scientist, Flipkart",
-        image2 : "https://avatars.githubusercontent.com/u/59832779?v=4",
-        message2 : "John and I worked together during a hackathon and the thing that surprised me the most about him was his knowledge of fundamentals. He offered sincere help to the team throughout the competition. He is an impressive problem solver who is able to address complex issues strategically and confidently.",
-  },
 ];
 
 AOS.init();
