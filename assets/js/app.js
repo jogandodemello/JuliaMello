@@ -348,7 +348,7 @@ $(function () {
   });
 });
 
-//function to remove underline on hover
+//function to remove underline on hovers
 
 $(document).ready(function () {
   $("a.nav-link").hover(
