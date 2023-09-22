@@ -73,12 +73,6 @@ const volunteershipcards = [
     description:
       "I'm a Private Pilot-I'm constantly honing my skills, and striving to achieve a higher order of precision and hone my decision making skills.",
   },
-   {
-    title: "IIT Motorsports(SAE)",
-    cardImage: "assets/images/SAE_International_logo.svg.png",
-    description:
-      ""IIT Motorsports, Society of Automotive Engineers (SAE) chapter at the Illinois Institute of Technology, offers students of all majors the opportunity to gain real-life experience designing, building, and promoting a competitive electric Formula SAE race car."",
-  },
 ];
 
 const showCards = () => {
