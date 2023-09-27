@@ -16,7 +16,7 @@ const projects = [
   {
     title: "BMW EBike(Pending)",
     cardImage: "assets/images/bmw-logo-2020-scaled.jpg.webp",
-    description: "A BMW K75 Electric Conversion (Postponed)",
+    description: "A BMW R80 Electric Conversion (Pending Funding)",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "Test",
     Githublink: "",
