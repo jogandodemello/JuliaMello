@@ -80,7 +80,7 @@ const volunteershipcards = [
     title: "M.A and Lila Self Leadership Academy(Present)",
     cardImage: "assets/images/SIMPLE_outline_clear.jpg",
     description:
-      "Leadership Academy Scholarship Full-Ride Recipient.  Partakes in frequent leadership development courses",
+      "'Named in honor of University Regent Al Self and his wife, Lila, the M. A. and Lila Self Leadership Academy Scholarship is a prestigious accolade reserved for individuals who exude extraordinary leadership potential. Established with the Selfs' founding gift in 2000, it empowers the Leadership Academy to grant full-tuition scholarships to up to four incoming first-year students.'",
   },
   {
     title: "Private Pilot Training",
