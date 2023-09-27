@@ -13,7 +13,7 @@ const exp = [
   },
   {
     title: "Production Team",
-    cardImage: "assets/js/Bemis-Family-logo.jpg",
+    cardImage: "assets/images/experience-page/108dd1_712dcf02a6584b7783bf273ae2fd14b1~mv2.png",
     place: "Bemis Manufacturing",
     time: "(Jun - Aug, 22)",
     desp: "<li>Fulfilled roles regarding the manufacture of Bemis' products while studying processes such as injection molding and shearing.</li>",
