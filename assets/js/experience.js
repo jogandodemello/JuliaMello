@@ -88,6 +88,12 @@ const volunteershipcards = [
     description:
       "I'm a Private Pilot-I'm constantly honing my skills, and striving to achieve a higher order of precision and hone my decision making skills.",
   },
+   {
+    title: "IIT SAE",
+    cardImage: "assets/images/SAE_International_logo.svg.png",
+    description:
+      "IIT SAE is a motorsports team where engineering students can convert their theoretical knowledge into practical experience through the construction of an electric race car..",
+  },
 ];
 
 const showCards = () => {
