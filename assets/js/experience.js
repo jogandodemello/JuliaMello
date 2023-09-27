@@ -12,6 +12,20 @@ const exp = [
      desp: "<li>Improved Ram Air Turbine Mfg processes.</li><li>Implemented shadowboards in nearly 15% of plant assembly areas/75% of test areas.</li><li>Overhauled wind tunnel gantry mounting processes to protect Airbus A320 ram air turbines from damage due to FOD and impact</li>",
   },
   {
+    title: "Production Team",
+    cardImage: "assets/js/Bemis-Family-logo.jpg",
+    place: "Bemis Manufacturing",
+    time: "(Jun - Aug, 22)",
+    desp: "<li>Fulfilled roles regarding the manufacture of Bemis' products while studying processes such as injection molding and shearing.</li>",
+  },
+  {
+    title: "Assembly Team",
+    cardImage: "assets/images/experience-page/352530575_585479516906219_3990836165438009731_n.png",
+    place: "Visa Lighting",
+    time: "(May - Dec, 21)",
+    desp: "<li>Ensured quality assembly of light fixtures for high end residential and commercial spaces.</li>",
+  },
+  {
     title: "Manufacturing Engineering Co-OP",
     cardImage: "assets/images/experience-page/Unknown.jpeg",
     place: "American Orthodontics",
@@ -23,8 +37,9 @@ const exp = [
     cardImage: "assets/images/experience-page/IMG_1774.jpeg",
     place: "West Bend Municipal Airport",
     time: "(Aug, 19 - Sep, 21)",
-    desp: "<li>Marshalled and fueled transient aircraft while ensuring high attention to detail and precision..</li><li>Conducted superficial maintenance on a fleet of 5 training aircraft.</li>",
+    desp: "<li>Marshalled and fueled transient aircraft while ensuring high attention to detail and precision.</li><li>Conducted superficial maintenance on a fleet of 5 training aircraft.</li>",
   },
+   
 ];
 
 const showCards2 = () => {
