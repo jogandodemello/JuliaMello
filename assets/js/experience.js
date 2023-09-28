@@ -80,7 +80,7 @@ const volunteershipcards = [
     title: "M.A and Lila Self Leadership Academy(Present)",
     cardImage: "assets/images/SIMPLE_outline_clear.jpg",
     description:
-      "'The M. A. and Lila Self Leadership Academy Scholarship is a prestigious accolade reserved for individuals who exude extraordinary leadership potential. Established with the Al & Lila Selfs' founding gift in 2000, the Leadership Academy grants full-tuition scholarships to up to thirty Illinois Inst. of Tech Students.'",
+      "'The M. A. and Lila Self Leadership Academy Full-Ride Scholarship is awarded to individuals who exude extraordinary leadership potential.'",
   },
   {
     title: "Private Pilot Training",
