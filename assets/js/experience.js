@@ -94,6 +94,12 @@ const volunteershipcards = [
     description:
       "IIT motorsports is a cross-disciplinary team where students can convert knowledge into practical experience via the design of a race car.",
   },
+    {
+    title: "IIT Student Government",
+    cardImage: "assets/images/experience-page/download.jpg",
+    description:
+      "I'm a Senator for the IIT Student Government Association.  It's my goal to ensure the needs of all +8,000 students are met, and IIT becomes a driving force in global change.",
+  },
 ];
 
 const showCards = () => {
