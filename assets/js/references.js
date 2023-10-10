@@ -5,7 +5,29 @@ const references = [
         designation1 : "Program Manager, Al & Lila Self Leadership Academy",
         image1 : "assets/images/references-page/Jack Kwatinetz.jpg",
         message1 : "As a Leadership Academy Scholar, Matt demonstrates strong leadership capabilities through taking initiative, motivating others, and leading by example. Matt is always willing to step up to take on additional responsibilities and challenges within the Academy. He leads groups effectively, encouraging collaboration and bringing out the best in his fellow scholars.",
+    sl2:2,
+        name2 : "N/A",
+        designation2 : "N/A", 
+        image2: "https://avatars.githubusercontent.com/u/59832779?v=4",
+        message2 : "N/A",
+        
+        
     },
+
+    {
+        sl1: 1,
+    name1 : "Jack Kwatinetz",
+        designation1 : "Program Manager, Al & Lila Self Leadership Academy",
+        image1 : "assets/images/references-page/Jack Kwatinetz.jpg",
+        message1 : "As a Leadership Academy Scholar, Matt demonstrates strong leadership capabilities through taking initiative, motivating others, and leading by example. Matt is always willing to step up to take on additional responsibilities and challenges within the Academy. He leads groups effectively, encouraging collaboration and bringing out the best in his fellow scholars.",
+
+
+        sl2:4,
+        name2 : "N/A",
+        designation2 : "N/A",
+        image2 : "https://avatars.githubusercontent.com/u/59832779?v=4",
+        message2 : "N/A.",
+  },
 ];
 
 AOS.init();
