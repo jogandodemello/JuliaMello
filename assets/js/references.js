@@ -1,3 +1,9 @@
+/*Reference Details Table*/
+// Changes made 10/1/2021:
+// Added reviewphoto1 - reviewphoto5 in assets/references-page
+// Changed names and descriptions of references
+const referenceTable = document.querySelector(".pain");
+
 const references = [
   {
     sl1: 1,
