@@ -1,22 +1,11 @@
-/*Reference Details Table*/
-// Changes made 9/19/2023:
-const referenceTable = document.querySelector(".pain");
-
 const references = [
   {
     sl1: 1,
-    name1 : "Note:",
-        designation1 : "",
-        image1 : "https://www.seekpng.com/ipng/u2q8w7i1i1i1o0r5_car-cartoon-comic-construction-crane-ride-/",
-        message1 : "This page will *eventually* host a compilation of professional references, information about the referral,and some other ",
-        
-
-        sl2:2,
-        name2 : "",
-        designation2 : "", 
-        image2: "",
-        message2 :" ",
-        
+    name1 : "Jack Kwatinetz",
+        designation1 : "Program Manager, Al & Lila Self Leadership Academy",
+        image1 : "assets/images/references-page/Jack Kwatinetz.jpg",
+        message1 : "As a Leadership Academy Scholar, Matt demonstrates strong leadership capabilities through taking initiative, motivating others, and leading by example. Matt is always willing to step up to take on additional responsibilities and challenges within the Academy. He leads groups effectively, encouraging collaboration and bringing out the best in his fellow scholars.",
+    },
 ];
 
 AOS.init();
