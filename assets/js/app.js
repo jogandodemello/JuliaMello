@@ -30,11 +30,7 @@ let header = $(`
    <li class="nav-item nav-item-hover"><a class="nav-link" href="reference.html">References</a></li>
    <li class="nav-item nav-item-hover">
   <li class="nav-item nav-item-hover">
-  <a class="nav-link" href="assets/docs/Matthew_NejedloAlpha.pdf" download="assets/docs/Matthew_NejedloAlpha.pdf">
-    Resumé/CV
-    <img src="assets/images/icon_2729494_edited.png" alt="Download Icon" style="width: .05; height: .05;">
-  </a>
-</li>
+  <a class="nav-link" href="assets/docs/Matthew_NejedloAlpha.pdf" download="assets/docs/Matthew_NejedloAlpha.pdf">Resumé/CV <img src="assets/images/icon_2729494_edited.png" alt="Download Icon" style="width: .01; height: .01;"> </a></li>
 
    <li class="nav-item">
    <input type="checkbox" id="dark_toggler" class="dark_toggler" aria-label="Toggle Light Mode" onclick="toggle_light_mode()" checked>
