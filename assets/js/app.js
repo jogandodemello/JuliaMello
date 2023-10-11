@@ -29,9 +29,10 @@ let header = $(`
    <li class="nav-item nav-item-hover"><a class="nav-link" href="education.html">Education</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="reference.html">References</a></li>
    <li class="nav-item nav-item-hover">
+  <li class="nav-item nav-item-hover">
   <a class="nav-link" href="assets/docs/Matthew_NejedloAlpha.pdf" download="assets/docs/Matthew_NejedloAlpha.pdf">
     Resumé/CV
-    <img src="assets/images/icon_2729494_edited.png" alt="Download Icon">
+    <img src="assets/images/icon_2729494_edited.png" alt="Download Icon" style="width: .5; height: .5;">
   </a>
 </li>
 
