@@ -8,7 +8,7 @@ const projects = [
   {
     title: "A.M.P.L.E.(Complete)",
     cardImage: "assets/images/SMD-LED_on_Hex_MCPCB.jpg",
-    description: "An AntiMicrobial Protected Lighting Environment system created by combining near UV-C lights within an interior handrail sconce, such that the contained lights neutralize contaminants on the surface of the rail.",
+    description: "An AntiMicrobial Protected Lighting Environment system created by combining near UV-C lights within an interior handrail sconce, such that the contained lights neutralize contaminants on the surface of the rail.<br><br>",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
     Githublink: "",
