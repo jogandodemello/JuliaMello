@@ -94,7 +94,7 @@ const volunteershipcards = [
     title: "IIT Motorsports",
     cardImage: "assets/images/SAE_International_logo.svg.png",
     description:
-      "IIT motorsports is a cross-disciplinary team where students can convert knowledge into practical experience via the design of a race car.",
+      "As I return to campus I'm getting active with IIT motorsports - a cross-disciplinary team where students can convert knowledge into practical experience via the design of a race car.",
   },
     {
     title: "IIT Student Government",
