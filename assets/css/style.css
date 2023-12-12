@@ -248,7 +248,7 @@ html {
   cursor: pointer;
   width: 100px;
   height: 40px;
-  background-image: assets/images/dark_mode_paris.jpeg;
+  background-image: url(https://media.istockphoto.com/id/1223237742/de/vektor/paris-landschaft-frankreich-skyline-hintergrund.jpg?s=1024x1024&w=is&k=20&c=oMIoarIgbG9uSWcaHTwQxOzt2GzbUs-Ff4hqqyv2NJQ=);
   background-size: cover;
   border-radius: 50px;
   outline: none;
