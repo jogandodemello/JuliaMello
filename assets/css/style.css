@@ -248,7 +248,7 @@ html {
   cursor: pointer;
   width: 100px;
   height: 40px;
-  image: "assets/images/references-page/Jack Kwatinetz 2.jpg"background-size: cover;
+  background-image: "assets/images/references-page/Jack Kwatinetz 2.jpg"background-size: cover;
   border-radius: 50px;
   outline: none;
   transition: background-image 0.9s;
