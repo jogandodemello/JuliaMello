@@ -11,7 +11,7 @@ html[data-theme="light"] {
   --bg-nav: black;
   --bg-nav-img: black;
   --bg-footer: #DDE1EC;
-  --bg: #ffffff;
+  --bg: #f1dbcd;
   --text: #191919;
   --text-color: #6c757d;
   --col-icon: black;
@@ -38,7 +38,7 @@ html[data-theme="dark"] {
   --bg-nav: #6617cb;
   --bg-nav-img: linear-gradient(315deg, #6617cb 0%, #882463 74%);
   --bg-footer: linear-gradient(315deg, #6617cb 0%, #882463 74%);
-  --bg: #191919;
+  --bg: #324860;
   --text: #ffffff;
   --text-color: #fff;
   --bg-txt-img: linear-gradient(315deg, #d5adc8 0%, #ff8489 74%);
