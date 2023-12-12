@@ -248,7 +248,7 @@ html {
   cursor: pointer;
   width: 100px;
   height: 40px;
-  background-image: "assets/images/references-page/Jack Kwatinetz 2.jpg"background-size: cover;
+  background-image: url(https://wallpapercave.com/wp/wp8716974.jpg);
   border-radius: 50px;
   outline: none;
   transition: background-image 0.9s;
@@ -269,7 +269,7 @@ html {
 }
 
 .dark_toggler:checked {
-  background-image: url(https://i.postimg.cc/Hn0nstVK/Screenshot-2020-04-16-at-1-07-19-PM.png);
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/480/553/298/france-paris-eiffel-tower-world-wallpaper-preview.jpg);
   transition: background-image 0.9s;
   box-shadow: 0px 2px 5px 1px rgb(187, 134, 201);
 }
