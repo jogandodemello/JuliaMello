@@ -283,12 +283,12 @@ html {
 /* end of dark mode toggle switch button */
 
 html {
-  background-color: #f6f6f6;
+  background-color: #f1dbcd;
   transition: background-color .3s;
 }
 
 html[light-mode="dark"] {
-  background-color: #141516;
+  background-color: #324860;
   color: #ced4e2;
 }
 
