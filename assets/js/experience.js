@@ -12,34 +12,28 @@ const exp = [
      desp: "<li>Contributed to the strategic development of the new office layout, showcasing an understanding of spatial design and functionality.</li><li>Orchestrated successful events, demonstrating organizational and logistical skills crucial in managing architectural project timelines and client engagements.</li>",
   },
   {
-    title: "Production Team",
-    cardImage: "assets/images/experience-page/108dd1_712dcf02a6584b7783bf273ae2fd14b1~mv2.png",
-    place: "Bemis Manufacturing",
-    time: "(Jun - Aug, 22)",
-    desp: "<li>Fulfilled roles regarding the manufacture of Bemis' products while studying processes such as injection molding and shearing.</li>",
+    title: "Landscape Architecture Intern",
+    cardImage: "assets/images/experience-page/Landsacape DesiArch.jpg",
+    place: "Pamela Seld Landscape Architecture",
+    time: "(May - Jun, 2023)",
+    desp: "
+      <li>Advanced architectural drawing skills through hands-on experience in contributing to and interpreting technical drawings.</li>
+      <li>Gained practical experience in on-site project management, emphasizing the ability to translate conceptual ideas into actionable plans within the constraints of a dynamic environment.</li>",
   },
   {
-    title: "Assembly Team",
-    cardImage: "assets/images/experience-page/352530575_585479516906219_3990836165438009731_n.png",
-    place: "Visa Lighting",
-    time: "(May - Dec, 21)",
-    desp: "<li>Ensured quality assembly of light fixtures for high end residential and commercial spaces.</li>",
+    title: "Architectural Intern",
+    cardImage: "assets/images/experience-page/LegacyScreenshot.png",
+    place: "Odebretch Realizacoes Imobiliarias e Empreendimentos",
+    time: "(May - Jul, 2022)",
+    desp: "<li>Applied technical expertise to produce accurate and visually compelling drawings, contributing to the overall success of architectural design projects.</li><li>Coordinated with architects, designers, and external parties to refine architectural drawings and marketing materials, ensuring alignment with project goals.</li>",
   },
   {
-    title: "Manufacturing Engineering Co-OP",
-    cardImage: "assets/images/experience-page/Unknown.jpeg",
-    place: "American Orthodontics",
-    time: "(Jan - May, 2020)",
-    desp: "<li>Collaborated in production and distribution of orthodontic devices to customers in over 110 different countries.</li><li>Learned how to conduct root cause analysis and enforce corrective actions to improve product quality and reduce defects to ideally, 3.4 errors per one million opportunities.</li>",
+    title: "Hawk Ambassador",
+    cardImage: "assets/images/experience-page/Illinois Tech.png",
+    place: "Illinois Institute of Technology",
+    time: "(Jan 2022 - December 2023)",
+    desp: "<li>Engaged directly with prospective students as a Hawk Ambassador, offering personalized campus tours and embodying the school's values.</li>",
   },
-  {
-    title: "Airport Ground Crew",
-    cardImage: "assets/images/experience-page/IMG_1774.jpeg",
-    place: "West Bend Municipal Airport",
-    time: "(Aug, 19 - Sep, 21)",
-    desp: "<li>Marshalled and fueled transient aircraft while ensuring high attention to detail and precision.</li><li>Conducted superficial maintenance on a fleet of 5 training aircraft.</li>",
-  },
-   
 ];
 
 const showCards2 = () => {
