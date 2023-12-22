@@ -5,11 +5,11 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Manufacturing Engineering Co-Op",
-    cardImage: "assets/images/experience-page/RAT.jpeg",
-    place: "Collins Aero.(Raytheon)",
-    time: "(Jan - Aug, 2023)",
-     desp: "<li>Improved Ram Air Turbine Mfg processes.</li><li>Implemented shadowboards in nearly 15% of plant assembly areas/75% of test areas.</li><li>Overhauled wind tunnel gantry mounting processes to protect Airbus A320 ram air turbines from damage due to FOD and impact</li>",
+    title: "Assistant Admissions Counselor",
+    cardImage: "assets/images/experience-page/Illinois Tech.png",
+    place: "Illinois Institute of Technology (IIT)",
+    time: "(Jan 2024 - Present)",
+     desp: "<li>Contributed to the strategic development of the new office layout, showcasing an understanding of spatial design and functionality.</li><li>Orchestrated successful events, demonstrating organizational and logistical skills crucial in managing architectural project timelines and client engagements.</li>",
   },
   {
     title: "Production Team",
