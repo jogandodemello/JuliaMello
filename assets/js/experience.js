@@ -13,7 +13,7 @@ const exp = [
   },
   {
   title: "Landscape Architecture Intern",
-  cardImage: "assets/images/experience-page/Landsacape DesiArch.jpg",
+  cardImage: "assets/images/experience-page/LandsacapeDesiArch.jpg",
   place: "Pamela Seld Landscape Architecture",
   time: "(May - Jun, 2023)",
   desp: "<li>Advanced architectural drawing skills through hands-on experience in contributing to and interpreting technical drawings.</li><li>Gained practical experience with on-site project management, emphasizing the ability to translate conceptual ideas into actionable plans within the constraints of a dynamic environment.</li>",
