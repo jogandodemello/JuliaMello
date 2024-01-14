@@ -14,7 +14,7 @@ const exp = [
   {
   title: "Landscape Architecture Intern",
   cardImage: "assets/images/experience-page/Landsacape DesiArch.jpg",
-  place: "Pamela Seld Landscape Architecture",
+  place: "Pamela Self Landscape Architecture",
   time: "(May - Jun, 2023)",
   desp: "<li>Advanced architectural drawing skills through hands-on experience in contributing to and interpreting technical drawings.</li><li>Gained practical experience with on-site project management, emphasizing the ability to translate conceptual ideas into actionable plans within the constraints of a dynamic environment.</li>",
 },
@@ -71,28 +71,28 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "M.A and Lila Self Leadership Academy(Present)",
+    title: "Activity Name",
     cardImage: "assets/images/SIMPLE_outline_clear.jpg",
     description:
-      "'The M. A. and Lila Self Leadership Academy Full-Ride Scholarship is awarded to individuals who exude extraordinary leadership potential.'",
+      "Lorem Ipsom Dolor....",
   },
   {
-    title: "Private Pilot Training",
+    title: "Activity Name",
     cardImage: "assets/images/IMG_0625.jpeg",
     description:
-      "I'm a Private Pilot-I'm constantly honing my skills, and striving to achieve a higher order of precision and hone my decision making skills.",
+      "Lorem Ipsom Dolor...",
   },
    {
-    title: "IIT Motorsports",
+    title: "Acticity Name",
     cardImage: "assets/images/SAE_International_logo.svg.png",
     description:
-      "As I return to campus I'm getting active with IIT motorsports - a cross-disciplinary team where students can convert knowledge into practical experience via the design of a race car.",
+      "Lorem Ipsom Dolor....",
   },
     {
-    title: "IIT Student Government",
+    title: "Activity Name",
     cardImage: "assets/images/experience-page/download.jpg",
     description:
-      "I'm a Senator for the IIT Student Government Association.  It's my goal to ensure the needs of all +8,000 students are met, and IIT becomes a driving force in global change.",
+      "Lorem Ipsom Dolor....",
   },
 ];
 
@@ -120,24 +120,24 @@ document.addEventListener("DOMContentLoaded", showCards);
 const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
   {
-    title: "Empowerment, Leadership, Mentorship Program",
-    subtitle: "Mentor",
+    title: "Volunteer Activity",
+    subtitle: "role name",
     image: "assets/images/elm_icon_mentorship-01.jpg",
-    desp: "I would be responsible for utilizing a battery of tools acquired in my academic and professional journey to mentor members of the IIT community and motivate them as they reach toward new goals.",
+    desp: "Description",
     href: "https://www.iit.edu/elm",
   },
   {
-    title: "Just Roots",
-    subtitle: "Cultivator",
+    title: "Volunteer Activity",
+    subtitle: "Role",
     image: "assets/images/IMG_1111.jpeg",
-    desp: "Just Roots is an urban farm focused on developing methods to provide fresh and healthy produce to the local Bronzeville community.",
+    desp: "Description",
     href: "https://justrootschicago.org",
   },
   {
-    title: "EAA Kidventure",
+    title: "Volunteer Activity",
     subtitle: "Volunteer",
     image: "assets/images/KtuvE6gA-1024x682.jpeg",
-    desp: "Kidventure is a workshop event within the broader EAA Airventure umbrella, where children interact with aviation in new and inspirational ways.",
+    desp: "Description",
     href: "https://www.eaa.org/airventure/features-and-attractions/kidventure",
   },
 ];
