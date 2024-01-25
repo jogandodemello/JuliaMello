@@ -71,28 +71,22 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "Activity Name",
-    cardImage: "assets/images/SIMPLE_outline_clear.jpg",
+    title: "AIAS IIT Chapter Social Media Managr",
+    cardImage: "assets/images/experience-page/NewlogoPngblue.png",
     description:
-      "Lorem Ipsom Dolor....",
+      "Helped run the social media accounts and assisted with community outreach initiatives.",
   },
   {
-    title: "Activity Name",
-    cardImage: "assets/images/IMG_0625.jpeg",
+    title: "Masonry Insight Workshop Certificate",
+    cardImage: "assets/images/experience-page/MAC-Squared-logo.jpg",
     description:
-      "Lorem Ipsom Dolor...",
+      "2022 - AIA and Masonry Council",
   },
    {
-    title: "Acticity Name",
-    cardImage: "assets/images/SAE_International_logo.svg.png",
+    title: "Ladership Academy Leadership Certificate",
+    cardImage: "assets/images/experience-page/images.png",
     description:
-      "Lorem Ipsom Dolor....",
-  },
-    {
-    title: "Activity Name",
-    cardImage: "assets/images/experience-page/download.jpg",
-    description:
-      "Lorem Ipsom Dolor....",
+      "2024 - M.A and Lila Self Leadership Academy",
   },
 ];
 
