@@ -31,7 +31,7 @@ const projects = [
   },
    {
     title: "Design Build",
-    cardImage: "assets/images/Portfolio Item 3.31024_1.jpg",
+    cardImage: "assets/images/project-page/Screenshot 2024-01-24 211103.png",
     description: "Performed on a team to process plan for loading/testing/unloading RAT from windtunnel gantry.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "",
